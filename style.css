@@ -22,6 +22,9 @@ a {
     filter: blur(0);
   }
 }
+.no-visual-search {
+    pointer-events: none;
+}
 .cover-content {
   display: flex;
   justify-content: center;
